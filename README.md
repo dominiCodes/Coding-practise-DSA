@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0198-house-robber) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0198-house-robber) |
 ## Union Find
 |  |
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
