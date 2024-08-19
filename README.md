@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
 ## String
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
