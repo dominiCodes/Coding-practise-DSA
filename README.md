@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
@@ -201,4 +204,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
