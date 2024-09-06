@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0904-leaf-similar-trees](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0904-leaf-similar-trees) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
@@ -167,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
