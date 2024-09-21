@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0198-house-robber) |
