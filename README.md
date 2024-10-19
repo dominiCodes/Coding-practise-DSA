@@ -222,12 +222,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
+| [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 ## Linked List
 |  |
 | ------- |
