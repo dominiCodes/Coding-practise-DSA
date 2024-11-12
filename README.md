@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
