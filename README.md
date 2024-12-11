@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
@@ -344,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
