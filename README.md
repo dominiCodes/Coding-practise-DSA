@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0263-ugly-number) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
