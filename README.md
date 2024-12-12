@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
@@ -351,4 +352,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
