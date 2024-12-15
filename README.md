@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0904-leaf-similar-trees) |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0904-leaf-similar-trees) |
@@ -220,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
