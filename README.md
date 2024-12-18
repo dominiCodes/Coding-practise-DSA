@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0130-surrounded-regions) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
