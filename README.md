@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0221-maximal-square) |
