@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0053-maximum-subarray) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0088-merge-sorted-array) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0064-minimum-path-sum) |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0234-palindrome-linked-list) |
@@ -434,4 +438,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
