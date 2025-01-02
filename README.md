@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
