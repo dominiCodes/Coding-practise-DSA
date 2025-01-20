@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3429-special-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3632-button-with-longest-push-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3632-button-with-longest-push-time) |
 ## Hash Table
 |  |
 | ------- |
