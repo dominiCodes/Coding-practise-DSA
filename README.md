@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3429-special-array-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
