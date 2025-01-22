@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3429-special-array-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3632-button-with-longest-push-time) |
 ## Hash Table
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
