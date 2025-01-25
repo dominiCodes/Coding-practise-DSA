@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3568-find-the-key-of-the-numbers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
