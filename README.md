@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 ## Backtracking
 |  |
 | ------- |
@@ -479,4 +481,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
