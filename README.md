@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -474,4 +475,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+## Enumeration
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
