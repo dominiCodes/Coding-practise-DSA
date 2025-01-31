@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3632-button-with-longest-push-time) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3568-find-the-key-of-the-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
