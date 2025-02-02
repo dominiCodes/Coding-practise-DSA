@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
 ## Sorting
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0859-design-circular-deque) |
+| [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
 ## Iterator
 |  |
 | ------- |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
+| [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
 | ------- |
