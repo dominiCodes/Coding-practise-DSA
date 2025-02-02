@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
