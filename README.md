@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
