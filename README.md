@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
 | ------- |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0299-bulls-and-cows) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
