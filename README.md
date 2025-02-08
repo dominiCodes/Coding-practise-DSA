@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3451-string-compression-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3451-string-compression-iii) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
