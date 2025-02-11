@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3632-button-with-longest-push-time) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Backtracking
 |  |
 | ------- |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Linked List
 |  |
