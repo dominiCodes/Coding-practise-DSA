@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3183-find-the-k-or-of-an-array) |
+| [3188-find-champion-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3188-find-champion-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3188-find-champion-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3188-find-champion-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Backtracking
