@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0904-leaf-similar-trees) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Enumeration
 |  |
@@ -554,4 +558,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3699-count-special-subsequences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3699-count-special-subsequences) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
