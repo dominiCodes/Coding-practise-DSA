@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0749-shortest-completing-word) |
+| [0792-binary-search](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0859-design-circular-deque) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
