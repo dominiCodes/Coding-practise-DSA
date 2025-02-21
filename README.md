@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Enumeration
@@ -564,4 +567,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
