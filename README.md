@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
