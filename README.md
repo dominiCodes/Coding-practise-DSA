@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3737-paint-house-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
+| [3737-paint-house-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3737-paint-house-iv) |
 ## Union Find
 |  |
 | ------- |
