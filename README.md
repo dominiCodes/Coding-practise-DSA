@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3699-count-special-subsequences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3699-count-special-subsequences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0076-minimum-window-substring) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
@@ -475,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Linked List
 |  |
