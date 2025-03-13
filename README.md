@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-find-mirror-score-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3699-count-special-subsequences) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3634-find-mirror-score-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3634-find-mirror-score-of-a-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3447-clear-digits) |
+| [3634-find-mirror-score-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3634-find-mirror-score-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3634-find-mirror-score-of-a-string) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
 ## Brainteaser
 |  |
