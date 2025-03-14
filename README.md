@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-paint-house-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3721-count-mentions-per-user](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3721-count-mentions-per-user) |
+| [3748-sort-matrix-by-diagonals](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3188-find-champion-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3188-find-champion-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3748-sort-matrix-by-diagonals](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
