@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0749-shortest-completing-word) |
