@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0506-relative-ranks) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
+| [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
