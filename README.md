@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0504-base-7) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0670-maximum-swap) |
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
