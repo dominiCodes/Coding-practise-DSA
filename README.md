@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
+| [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
