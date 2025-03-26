@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2625-increment-submatrices-by-one) |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
+| [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
