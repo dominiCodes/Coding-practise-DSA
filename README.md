@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3699-count-special-subsequences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3699-count-special-subsequences) |
