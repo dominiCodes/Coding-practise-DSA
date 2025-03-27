@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
