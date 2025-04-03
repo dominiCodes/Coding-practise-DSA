@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
