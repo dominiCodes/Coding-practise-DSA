@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1274-number-of-days-between-two-dates](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1274-number-of-days-between-two-dates) |
+| [1279-prime-arrangements](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2032-largest-odd-number-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2037-count-square-sum-triples) |
