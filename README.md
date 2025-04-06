@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1217-relative-sort-array) |
