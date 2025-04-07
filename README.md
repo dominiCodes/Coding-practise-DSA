@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
