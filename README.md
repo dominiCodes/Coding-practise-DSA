@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1500-count-largest-group](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1274-number-of-days-between-two-dates](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1279-prime-arrangements) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1500-count-largest-group](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2050-count-good-numbers) |
