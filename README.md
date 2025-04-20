@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
