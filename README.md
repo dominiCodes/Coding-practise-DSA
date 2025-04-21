@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
