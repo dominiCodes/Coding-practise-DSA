@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1505-create-target-array-in-the-given-order](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1547-destination-city](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1547-destination-city) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-destination-city](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1547-destination-city](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1547-destination-city) |
 | [1652-minimum-suffix-flips](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1652-minimum-suffix-flips) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
