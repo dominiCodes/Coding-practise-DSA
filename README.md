@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0859-design-circular-deque) |
+| [0898-transpose-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [0978-valid-mountain-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1382-calculate-amount-paid-in-taxes) |
