@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0859-design-circular-deque) |
+| [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [0978-valid-mountain-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0981-delete-columns-to-make-sorted) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-shortest-completing-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
+| [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1039-find-the-town-judge) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
 | [3427-special-array-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3427-special-array-ii) |
