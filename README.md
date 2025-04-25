@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-shortest-completing-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0924-fair-candy-swap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0299-bulls-and-cows) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
