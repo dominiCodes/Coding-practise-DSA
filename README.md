@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0682-baseball-game) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0682-baseball-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0682-baseball-game) |
 | [3447-clear-digits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3634-find-mirror-score-of-a-string) |
 ## Design
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
