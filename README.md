@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0566-reshape-the-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0682-baseball-game) |
 | [0731-my-calendar-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
