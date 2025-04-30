@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0572-subtree-of-another-tree) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0572-subtree-of-another-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0572-subtree-of-another-tree) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0207-course-schedule) |
+| [0404-sum-of-left-leaves](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0529-minesweeper](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0744-network-delay-time) |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0572-subtree-of-another-tree) |
