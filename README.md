@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0401-binary-watch) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3183-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
