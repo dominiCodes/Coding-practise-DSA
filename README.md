@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0749-shortest-completing-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0749-shortest-completing-word) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -698,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0859-design-circular-deque) |
 ## Quickselect
 |  |
