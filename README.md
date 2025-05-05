@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0461-hamming-distance) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3183-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
