@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0680-valid-palindrome-ii) |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
