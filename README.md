@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1471-maximum-students-taking-exam](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1471-maximum-students-taking-exam) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1041-available-captures-for-rook) |
+| [1471-maximum-students-taking-exam](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1471-maximum-students-taking-exam) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1753-path-with-minimum-effort) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0461-hamming-distance) |
+| [1471-maximum-students-taking-exam](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1471-maximum-students-taking-exam) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3183-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1250-longest-common-subsequence) |
+| [1471-maximum-students-taking-exam](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1471-maximum-students-taking-exam) |
 | [3737-paint-house-iv](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/3737-paint-house-iv) |
 ## Union Find
 |  |
@@ -809,4 +813,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bitmask
+|  |
+| ------- |
+| [1471-maximum-students-taking-exam](https://github.com/dominiCodes/Coding-practise-DSA/tree/master/1471-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
